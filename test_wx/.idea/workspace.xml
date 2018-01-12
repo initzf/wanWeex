@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cb205af-84fd-4f0e-9076-bf82925ba2f8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="176" column="15" lean-forward="true" selection-start-line="176" selection-start-column="15" selection-end-line="176" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/weex-vue-render/dist/index.common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290871">
+              <caret line="10773" column="54" lean-forward="false" selection-start-line="10773" selection-start-column="54" selection-end-line="10773" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test3.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test3.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xyz.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xyz.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2025">
+              <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/weex-ui/packages/wxc-button/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1053">
+              <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Weex Application" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>left_icon</find>
+      <find>tabitems2</find>
+      <find>index</find>
+      <find>disabled</find>
+      <find>checked</find>
+      <find>lists</find>
+      <find>listitem</find>
+      <find>onviewappear</find>
+      <find>onchange</find>
+      <find>WX_FAILED_</find>
+      <find>globalEvent</find>
+      <find>wxcCellClicked</find>
+      <find>created</find>
+      <find>getData2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>xyz</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tools/data.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/src/test.we" />
+        <option value="$PROJECT_DIR$/src/test3.vue" />
+        <option value="$PROJECT_DIR$/src/xyz.vue" />
+        <option value="$PROJECT_DIR$/src/index.vue" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_wx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\weex\test_wx\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cb205af-84fd-4f0e-9076-bf82925ba2f8" name="Default" comment="" />
+      <created>1515467837376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515467837376</updated>
+      <workItem from="1515467839974" duration="5550000" />
+      <workItem from="1515478638461" duration="515000" />
+      <workItem from="1515480013555" duration="7877000" />
+      <workItem from="1515487920753" duration="4831000" />
+      <workItem from="1515548588731" duration="13308000" />
+      <workItem from="1515567119318" duration="3411000" />
+      <workItem from="1515655197379" duration="10342000" />
+      <workItem from="1515721495967" duration="14373000" />
+      <workItem from="1515752078447" duration="139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60346000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19093333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Weex Documents" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Weex Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/weex-vue-render/dist/index.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290871">
+          <caret line="10773" column="54" lean-forward="true" selection-start-line="10773" selection-start-column="54" selection-end-line="10773" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test3.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xyz.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/weex-ui/packages/wxc-button/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xyz.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/weex-ui/packages/wxc-button/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.we" />
+    <entry file="file://$PROJECT_DIR$/dist/test.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.we" />
+    <entry file="file://$PROJECT_DIR$/dist/test.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.we" />
+    <entry file="file://$PROJECT_DIR$/dist/test.js" />
+    <entry file="file://$PROJECT_DIR$/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.we" />
+    <entry file="file://$PROJECT_DIR$/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/test.js" />
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/app/src/main/assets/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.we" />
+    <entry file="file://$PROJECT_DIR$/node_modules/weex-ui/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="775" column="9" lean-forward="false" selection-start-line="775" selection-start-column="9" selection-end-line="775" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/weex-ui/packages/wxc-button/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test3.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/weex-vue-render/dist/index.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290871">
+          <caret line="10773" column="54" lean-forward="false" selection-start-line="10773" selection-start-column="54" selection-end-line="10773" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xyz.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="176" column="15" lean-forward="true" selection-start-line="176" selection-start-column="15" selection-end-line="176" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#slider#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#2;n#div#0;n#div#0;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#scroller#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
